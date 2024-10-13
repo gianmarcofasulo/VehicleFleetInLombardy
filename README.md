@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/parco_veicoli_lombardia.git
+    git clone https://github.com/your-username/VehicleFleetInLombardy.git
     cd parco_veicoli_lombardia
     ```
 
